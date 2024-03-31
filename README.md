@@ -7,3 +7,5 @@ The project involved a rigorous data analysis approach, employing dimension mode
 Our results reveal substantial spatial and temporal patterns in collision occurrences, which could inform targeted interventions in specific boroughs and critical areas. The key finding highlights driver inattention/distraction and unsafe speed as the predominant contributing factors for both injuries and fatalities. Moreover, the boroughs of Brooklyn and Queens exhibit a higher rate of these incidents, necessitating a focused approach to safety measures in these areas.
 
 Based on our analysis, we recommend a multidimensional approach toward road safety, encompassing data-driven enforcement, infrastructural development, public awareness campaigns, policy initiatives, and the adoption of technology to assist in traffic management and accident prevention.
+
+Link to Tableau Dashboard: https://drive.google.com/file/d/1VH4v7soouGfMQgKD8GnnQbJmUhR4y65w/view?usp=drive_link
