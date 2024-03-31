@@ -8,4 +8,4 @@ Our results reveal substantial spatial and temporal patterns in collision occurr
 
 Based on our analysis, we recommend a multidimensional approach toward road safety, encompassing data-driven enforcement, infrastructural development, public awareness campaigns, policy initiatives, and the adoption of technology to assist in traffic management and accident prevention.
 
-Link to Tableau Dashboard: https://drive.google.com/file/d/1VH4v7soouGfMQgKD8GnnQbJmUhR4y65w/view?usp=drive_link
+Link to Tableau Dashboard: https://drive.google.com/drive/folders/1KC2xODLcbkbV8ioC5qE_L3sLpY1U9j8V?usp=drive_link
